@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 def weight_average(my_list=[]):
     if my_list == []:
@@ -9,4 +8,3 @@ def weight_average(my_list=[]):
         total_score += (score * weight)
         num_of_val += weight
     return total_score / num_of_val
-
