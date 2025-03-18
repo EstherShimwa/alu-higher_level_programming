@@ -12,4 +12,4 @@ def class_to_json(obj):
         return dictionary description for JSON object
     """
 
-    return obj.__dict___
+    return obj.__dict__
